@@ -1,2 +1,27 @@
 # github_use_tip
-github use tip Organizing
+깃허브 사용방법에 대한 정리를 해두자
+
+## Index
+  - [Basic Use](##Basic-Use)
+  - [Error](##Error)
+  - [Simple Tip](##Simple-Tip) 
+
+
+### Basic Use
+
+
+
+### Error
+
+
+
+### Simple Tip
+
+
+
+### Useing MarkDown
+
+
+### Simple Tip
+One Paragraph of project description goes here
+

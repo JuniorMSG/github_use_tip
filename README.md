@@ -15,10 +15,9 @@
 
 #### git push Error
 The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
+To push the current branch and set the remote as upstream, use <br>
+[Link](https://github.com/JuniorMSG/github_use_tip/blob/main/Error/The%20current%20branch%20master%20has%20no%20upstream%20branch.md)
 
-    git push --set-upstream origin master
-    
 
 
 

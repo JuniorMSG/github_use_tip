@@ -19,8 +19,9 @@ The current branch master has no upstream branch.
 To push the current branch and set the remote as upstream, use
 
 [GitHub - Link]()<br>
-commit or discard the untracked or modified content in submodules
+commit or discard the untracked or modified content in submodules <br>
 ![image](https://user-images.githubusercontent.com/22822369/149666582-c5fd587a-0b69-40b1-8847-a62714e4242b.png)
+
 
 
 
